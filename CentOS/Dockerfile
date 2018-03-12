@@ -1,6 +1,6 @@
 FROM centos:7
 
-MAINTAINER Humble Chirammal hchiramm@redhat.com Mohamed Ashiq Liyazudeen mliyazud@redhat.com
+MAINTAINER Humble Chirammal hchiramm@redhat.com Madhu Rajanna mrajanna@redhat.com
 
 ENV container docker
 
